@@ -1,0 +1,14 @@
+{
+  "name": "equip_subscriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "equipSubscriber.js",
+  "scripts": {
+    "start": "node equipSubscriber.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^5.3.4"
+  }
+}

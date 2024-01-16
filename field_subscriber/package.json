@@ -1,0 +1,14 @@
+{
+  "name": "field_subscriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fieldSubscriber.js",
+  "scripts": {
+    "start": "node fieldSubscriber.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^5.3.4"
+  }
+}
